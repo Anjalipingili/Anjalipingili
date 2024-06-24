@@ -1,0 +1,15 @@
+syntax:print(object(s,sep=seperator,end=end
+fundamentals of python
+tokens
+variables
+constants
+statements
+indendations
+
+
+
+tokens
+literals:paeameters
+reserved words:keywords
+identifiers:var names
+operators
